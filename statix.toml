@@ -1,0 +1,3 @@
+disabled = [
+  "redundant_pattern_bind"
+]
